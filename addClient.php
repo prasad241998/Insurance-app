@@ -70,8 +70,7 @@ $uniqueId2 = time().'-'.mt_rand();
                     <div class="col-md-12">
                         <h1 class="page-head-line">Add Client</h1>
 						
-                    
-                
+                                    
 
 <form action="insertClient2.php" method="post" enctype="multipart/form-data">
 Policy ID*       <input type="text" name="client_id" value="<?php echo"$uniqueId"; ?>" required><br>

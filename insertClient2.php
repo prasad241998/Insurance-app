@@ -77,9 +77,7 @@ tr:nth-child(even) {
                         <a href="addclient.php" class="btn">Add Client</a>
                         </button>
 						</h1>
-                    
-                
-				
+                                				
 				
 <?php
 	    $client_id       = $_POST["client_id"];

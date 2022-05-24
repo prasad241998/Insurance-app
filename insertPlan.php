@@ -77,7 +77,6 @@ tr:nth-child(even) {
 						</h1>
                     
 <?php
-
 //     [sum_insured] => 500000
 //     [client_id] => 1652852596
 //     [plan_amount] => 2000
